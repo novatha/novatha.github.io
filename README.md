@@ -1,3 +1,0 @@
-# novatha.github.io
-
-Readme
